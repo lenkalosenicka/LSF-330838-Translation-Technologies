@@ -1,4 +1,4 @@
 # LSF-330838-Translation-Technologies
-resources for Translation Technology course
+## Resources for Translation Technology course
 
-Team work on creating translation memories and termbanks for different languages
+Team work on creating *translation memories* and *termbanks* for different languages
